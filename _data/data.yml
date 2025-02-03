@@ -51,4 +51,6 @@ experiences:
       
       Our goal is to make classic and freely available films easily accessible while maintaining a sleek and lightweight user experience.
 
-      Project Log:
+project_log:
+  title: Project Log
+  logs_directory: "/logs/"
